@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/react-switch/static/css/main.31d6cfe0.css",
+    "main.js": "/react-switch/static/js/main.a048534f.js",
+    "index.html": "/react-switch/index.html",
+    "main.a048534f.js.map": "/react-switch/static/js/main.a048534f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.a048534f.js"
+  ]
+}
